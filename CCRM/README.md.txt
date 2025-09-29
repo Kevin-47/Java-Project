@@ -1,5 +1,7 @@
 # Java Project
 
+##Kevin George 24BCE10382
+
 ## 📌 Project Overview
 This project demonstrates core Java concepts as per syllabus requirements.  
 It contains multiple `.java` files, each showcasing OOP, collections, exception handling, multithreading, JDBC, etc.  
@@ -42,5 +44,6 @@ Download JDK installer from Oracle
 .
 
 Install and set JAVA_HOME in Environment Variables.
+
 
 Verify installation:
